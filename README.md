@@ -1,4 +1,4 @@
-# LazyImage
+# AsyncImage
 
 Here you can find the source code for the AsyncImage extension for Gamemaker.
 
