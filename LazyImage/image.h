@@ -3,7 +3,7 @@
 #include <vector>
 
 struct image {
-	size_t width;
-	size_t height;
+	unsigned int width;
+	unsigned int height;
 	std::vector<unsigned char> data;
 };
